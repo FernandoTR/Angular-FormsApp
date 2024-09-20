@@ -1,4 +1,23 @@
-# FormsApp
+# FormsApp - Formularios reactivos y validaciones
+
+¿Qué veremos en esta aplicación?
+
+Este un listado de los temas fundamentales:
+
+1. Formularios Reactivos.
+2. Lazyload y tareas relacionadas.
+3. Validaciones propias de Angular.
+4. Validaciones personalizadas.
+5. Validaciones asíncronas.
+6. Arreglos y objetos anidados.
+7. FormBuilder.
+8. FormGroup.
+9. FormArray.
+10. Validar contra expresiones regulares.
+11. Separar la lógica de validaciones.
+12. Estado del formulario.
+13. Mensajes de error personalizados.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
